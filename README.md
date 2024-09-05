@@ -1,2 +1,2 @@
 # FRCDesign.org
-Completing FRCDesign.org 1A
+Completing FRCDesign.org's training
